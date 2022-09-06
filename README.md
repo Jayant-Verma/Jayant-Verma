@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a MCA student @NIT, Warangal.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I’m currently final year MCA student @NIT, Warangal.
+- 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate in open source community.
 - 💬 Ask me about DSA
 - 📫 How to reach me:   [Linkedin](https://www.linkedin.com/in/jayantverma007/) and [Instagram](https://www.instagram.com/jayant_rajputt/)

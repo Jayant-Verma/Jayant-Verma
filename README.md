@@ -7,7 +7,7 @@
 ## **👨‍💻 About Me**  
 - 🎓 **MCA Graduate** from **NIT Warangal**  
 - 💼 **Software Engineer @ Radisys** 
-- ⚡ Passionate about **Backend Development, Distributed Systems, and Open Source**  
+- ⚡ Passionate about **Fullstack Development, Distributed Systems, and Open Source**  
 - 💡 Strong problem-solving skills with **600+ DSA problems solved**  
 - 🎯 Achieved **Top 250 global rank** in CodeChef Starters competitions  
 
